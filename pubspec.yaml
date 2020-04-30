@@ -19,7 +19,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
+  carousel_pro: ^1.0.0
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.2
@@ -41,9 +41,51 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  # assets:
-  #  - images/a_dot_burr.jpeg
-  #  - images/a_dot_ham.jpeg
+  assets:
+   - images/gaana.jpeg
+   - images/despa.jpg
+   - images/best.jpg
+   - images/gen1.jpg
+   - images/gen2.jpg
+   - images/gen3.jpg
+   - images/gen4.jpg
+   - images/gen5.jpg
+   - images/gen7.jpg
+   - images/gen8.jpg
+   - images/song1.jpg
+   - images/song2.jpg
+   - images/song3.jpg
+   - images/song4.jpg
+   - images/song5.jpg
+   - images/song6.jpg
+   - images/song7.jpg
+   - images/song8.jpg
+   - images/song9.jpg
+   - images/song10.jpg
+   - images/song11.jpg
+   - images/song12.jpg
+   - images/sin1.jpg
+   - images/sin2.jpg
+   - images/sin3.jpg
+   - images/sin4.jpg
+   - images/sin5.jpg
+   - images/sin6.jpg
+   - images/sin8.jpg
+   - images/sin9.jpg
+   - images/sin10.jpg
+   - images/img3.jpg
+   - images/img4.jpg
+   - images/img6.jpg
+   - images/imag5.jpg
+   - images/imag7.jpg
+   - images/images.jpg
+   - images/pod2.jpg
+   - images/pod1.jpg
+   - images/pod3.jpg
+   - images/pod4.jpg
+   - images/pod5.jpg
+   - images/pod6.jpg
+   - images/pod7.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
